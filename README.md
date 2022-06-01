@@ -11,5 +11,5 @@ I am passionate about learning new technologies and self-development.
 
 ---
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Ghost-Rider-gu&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea7161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-Rider-gu&hide_border=true&layout=compact&langs_count=5&text_color=000&icon_color=fff&bg_color=0,52fa5a,5ffa5a,ea7161&theme=graywhite" />
+![GhostRider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost-Rider-gu&show_icons=true&theme=cobalt)<!-- wi*quL3fcV --><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-Rider-gu&hide_border=true&layout=compact&langs_count=5&theme=cobalt" />
 
